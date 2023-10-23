@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web and software
 - 📫 How to reach me via facebook and linkedin
 - Tech stach
-- https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
+ https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
 
 <!---
 Mdkaisarhamid/Mdkaisarhamid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
