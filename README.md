@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NextJS and Typescript
 - 💞️ I’m looking to collaborate on web and software
 - 📫 How to reach me via facebook and linkedin
-- Tech stach
+- Tech Stack
  https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
 
 <!---
